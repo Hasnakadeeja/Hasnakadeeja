@@ -1,94 +1,93 @@
 <h1 align="center">Hi 👋, I'm Hasna Kadeeja</h1>
 
-<h3 align="center">
-Computer Science Graduate (2026) | Software Developer | Cloud & Mobile App Enthusiast
-</h3>
+<p align="center">
+Computer Science Engineering Student • Web Developer • Mobile App Builder
+</p>
+
+<p align="center">
+<a href="https://hasna-kadeeja-portfolio.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/hasna-kadeeja-389239258/">LinkedIn</a> •
+<a href="mailto:hasnakadeeja277@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Graduate (2026)
+I'm a Computer Science Engineering student graduating in 2026 who enjoys building practical software solutions for real-world problems.
 
-💻 Passionate about Software Development, Web Technologies, and Mobile Applications
+Currently focused on:
 
-☁️ Exploring Cloud Computing and Modern Development Practices
+- 🌐 Full-Stack Web Development
+- 📱 Mobile App Development with Flutter
+- ☁️ Cloud Computing Fundamentals
+- 🗄️ Database Design & Management
 
-🌱 Currently learning Flutter, Cloud Technologies, and Full-Stack Development
-
-📫 Reach me at: hasnakadeeja277@gmail.com
-
-🌐 Portfolio: https://hasna-kadeeja-portfolio.vercel.app/
+I enjoy turning ideas into usable applications and continuously improving my development skills through projects and hands-on learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- Java
-- SQL
+`JavaScript` `Python` `Java` `SQL`
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
+### Frontend
+`HTML` `CSS` `JavaScript`
 
-### Mobile Development
-- Flutter
-- Dart
+### Mobile
+`Flutter` `Dart`
 
 ### Database
-- MySQL
+`MySQL`
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Android Studio
+### Tools
+`Git` `GitHub` `VS Code` `Android Studio`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📱 CrowdGO Mobile App
-A mobile application designed to improve community engagement and event participation.
+### CrowdGO Mobile App
+A mobile application focused on improving community engagement and event participation.
 
-### 🌐 Personal Portfolio Website
-A responsive portfolio website showcasing projects, skills, and achievements.
+**Tech:** Flutter, Dart
 
-### 🗄️ DBMS Project
-Database management system project demonstrating database design and implementation concepts.
+### Personal Portfolio Website
+A responsive portfolio website showcasing my projects, skills, and learning journey.
+
+**Live Demo:** https://hasna-kadeeja-portfolio.vercel.app/
+
+### DBMS Project
+A database-focused project demonstrating data modeling, database design, and implementation concepts.
 
 ---
 
-## 🎯 Current Goals
+## 📚 Currently Learning
 
-- Build production-ready full-stack applications
-- Strengthen cloud computing skills
-- Contribute to open-source projects
-- Improve software architecture and system design knowledge
+- Flutter Development
+- Cloud Computing
+- Full-Stack Development
+- Software Engineering Best Practices
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnakadeeja&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnakadeeja&layout=compact)
-
----
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/hasna-kadeeja-389239258/)
-
-[Portfolio](https://hasna-kadeeja-portfolio.vercel.app/)
-
-[GitHub](https://github.com/Hasnakadeeja)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hasnakadeeja&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnakadeeja&layout=compact" />
+</p>
 
 ---
 
-⭐ Always learning, building, and improving.
+## 🎯 2026 Goals
+
+- Build and deploy production-ready applications
+- Contribute to open-source projects
+- Strengthen cloud and backend development skills
+- Secure a software engineering role
+
+---
+
+⭐ Open to collaboration, learning opportunities, and exciting software projects.
