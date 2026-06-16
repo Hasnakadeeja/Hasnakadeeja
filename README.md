@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasna Kadeeja</h1>
 
 <p align="center">
-Computer Science Engineering Student • Web Developer • Mobile App Builder
+Computer Science Engineering Graduate • Full-Stack & Mobile Developer • Exploring AI & Cloud Technologies
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Computer Science Engineering Student • Web Developer • Mobile App Builder
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student graduating in 2026 who enjoys building practical software solutions for real-world problems.
+I'm a Computer Science Engineering graduate who enjoys building practical software solutions for real-world problems.
 
 Currently focused on:
 
