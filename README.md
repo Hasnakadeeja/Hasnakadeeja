@@ -16,9 +16,9 @@ Computer Science Graduate (2026) | Software Developer | Cloud & Mobile App Enthu
 
 🌱 Currently learning Flutter, Cloud Technologies, and Full-Stack Development
 
-📫 Reach me at: YOUR_EMAIL_HERE
+📫 Reach me at: hasnakadeeja277@gmail.com
 
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
+🌐 Portfolio: https://hasna-kadeeja-portfolio.vercel.app/
 
 ---
 
@@ -83,9 +83,9 @@ Database management system project demonstrating database design and implementat
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/hasna-kadeeja-389239258/)
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://hasna-kadeeja-portfolio.vercel.app/)
 
 [GitHub](https://github.com/Hasnakadeeja)
 
