@@ -1,131 +1,168 @@
-<h1 align="center">Hi 👋, I'm Hasna Kadeeja</h1>
+# Hi 👋, I'm Hasna Kadeeja
 
 <p align="center">
-Software Developer • CSE Graduate • Building AI, Web & Mobile Applications
+  <strong>Computer Science Engineering Graduate | Software Development • AI Applications • Technology & Business</strong>
 </p>
 
 <p align="center">
-<a href="https://hasna-kadeeja-portfolio.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/hasna-kadeeja-389239258/">LinkedIn</a> •
-<a href="mailto:hasnakadeeja277@gmail.com">Email</a>
+  Building practical software, exploring AI-powered solutions, and understanding how technology solves real-world problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hasnakadeeja&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://hasna-kadeeja-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/hasna-kadeeja-389239258/">LinkedIn</a> •
+  <a href="mailto:hasnakadeeja277@gmail.com">Email</a>
 </p>
 
-## 🚀 About Me
-
-I'm a Computer Science Engineering graduate passionate about building practical software solutions that solve real-world problems.
-
-My recent work includes developing:
-
-* 📱 **CrowdGO** — A crowd management and event safety platform built with Flutter and Firebase.
-* ✈️ **Travel Buddy** — An AI-powered travel planning application using Gemini AI, Node.js, and Express.
-
-Currently exploring:
-
-* 🤖 Artificial Intelligence & AI-Powered Applications
-* ☁️ Cloud Computing
-* 🌐 Full-Stack Development
-* 📱 Mobile App Development
-* 🏗️ Software Engineering Best Practices
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasnakadeeja&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### Languages
+I'm a Computer Science Engineering graduate interested in building useful technology solutions and understanding how they address real-world needs.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+My interests span software development, AI-powered applications, and the intersection of technology and business. Through hands-on projects, I'm developing my programming, backend engineering, and AI integration skills while strengthening my analytical thinking and problem-solving abilities.
 
-### Frontend
+I enjoy learning new technologies, exploring how systems work, and turning ideas into practical applications.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-### Database & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### AI & APIs
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+- 💻 **Software Development:** Web applications, mobile applications, and backend systems
+- 🤖 **AI & Emerging Technologies:** LLM applications, RAG concepts, embeddings, and semantic retrieval
+- 📊 **Technology & Business:** Business analysis, technology consulting, and translating user needs into technical solutions
+- 📚 **Currently Learning:** Python, software engineering practices, and AI application architecture
+- 🎯 **Career Interests:** Software engineering, AI application development, technology consulting, and business-facing technology roles
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✈️ Travel Buddy
+### 1. VaultFlow — AI-Powered Document Assistant
 
-AI-powered travel planning application that generates personalized itineraries and budget recommendations using Gemini AI.
+A document-based question-answering application designed to retrieve relevant information from uploaded documents and generate grounded responses.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Gemini AI
+**Key areas:**
+- Retrieval-Augmented Generation (RAG)
+- Text chunking, embeddings, and semantic retrieval
+- LLM integration and tool calling
+- Workspace isolation and retrieval debugging
 
-### 📱 CrowdGO
+**Technologies:** Refer to the repository for the complete implementation and supported stack.
 
-Crowd management and event safety platform featuring real-time density monitoring, geofencing, and alert systems.
+<p>
+  <a href="https://github.com/Hasnakadeeja/VaultFlow">📂 Source Code</a> •
+  <a href="https://vaultflow-3ueh.onrender.com/">🌐 Live Demo</a>
+</p>
 
-**Tech Stack:** Flutter, Firebase, Python, Spatial Analytics
+### 2. Travel Buddy — AI Travel Planner
 
-### 🌐 Personal Portfolio
+An AI-powered travel planning application that generates personalized itineraries and supports travel budget planning.
 
-A responsive portfolio website showcasing my projects, technical skills, and development journey.
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, Gemini AI
 
-**Live Demo:** https://hasna-kadeeja-portfolio.vercel.app/
+<p>
+  <a href="https://github.com/Hasnakadeeja/Travel-Buddy">📂 Source Code</a>
+</p>
 
----
+### 3. CrowdGO — Smart Crowd Management System
 
-## 📚 Currently Learning
+A Flutter-based event management application focused on event registration, QR-based ticketing, gate allocation, and ticket validation.
 
-* Artificial Intelligence & Machine Learning
-* Cloud Computing
-* Advanced Flutter Development
-* Full-Stack Application Architecture
-* Software Engineering Best Practices
+**Technologies:** Flutter, Dart, Firebase Authentication, Cloud Firestore
 
----
+<p>
+  <a href="https://github.com/Hasnakadeeja/CrowdGO-MobileApp">📂 Source Code</a>
+</p>
 
-## 📈 GitHub Stats
+### 4. Personal Portfolio
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hasnakadeeja&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnakadeeja&layout=compact&theme=default" />
+A portfolio website showcasing my projects, technical skills, and development journey.
+
+<p>
+  <a href="https://hasna-kadeeja-portfolio.vercel.app/">🌐 Visit Portfolio</a>
 </p>
 
 ---
 
-## 🎯 Professional Focus
+## 🛠️ Technical Skills
 
-* Building production-ready applications
-* Exploring AI-powered software solutions
-* Strengthening backend and cloud development skills
-* Contributing to open-source projects
-* Growing as a full-stack software developer
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### Web & Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+### AI & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LLM_Applications-6A5ACD?style=for-the-badge" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG_&_Embeddings-00897B?style=for-the-badge" alt="RAG and embeddings" />
+</p>
+
+### Mobile & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</p>
 
 ---
 
-⭐ Always learning, building, and improving through real-world projects and continuous exploration of new technologies.
+## 📚 Current Learning Goals
+
+- Strengthen Python programming and problem-solving fundamentals
+- Understand embeddings, semantic search, and RAG evaluation
+- Improve backend architecture, API design, and testing
+- Build reliable and maintainable applications
+- Develop stronger analytical and business problem-solving skills
+
+---
+
+## 🤝 Professional Interests
+
+I'm interested in opportunities where technology, analytical thinking, and practical problem-solving come together.
+
+Areas I'm exploring include:
+- Software engineering and application development
+- AI-powered products and LLM applications
+- Business analysis and technology consulting
+- Product-oriented and business-facing technology roles
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://hasna-kadeeja-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/hasna-kadeeja-389239258/">LinkedIn</a> •
+  <a href="mailto:hasnakadeeja277@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Learning by building, solving problems, and continuously improving.</em>
+</p>
