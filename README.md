@@ -55,17 +55,7 @@ A document-based question-answering application designed to retrieve relevant in
   <a href="https://vaultflow-3ueh.onrender.com/">🌐 Live Demo</a>
 </p>
 
-### 2. Travel Buddy — AI Travel Planner
-
-An AI-powered travel planning application that generates personalized itineraries and supports travel budget planning.
-
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, Gemini AI
-
-<p>
-  <a href="https://github.com/Hasnakadeeja/Travel-Buddy">📂 Source Code</a>
-</p>
-
-### 3. CrowdGO — Smart Crowd Management System
+### 2. CrowdGO — Smart Crowd Management System
 
 A Flutter-based event management application focused on event registration, QR-based ticketing, gate allocation, and ticket validation.
 
@@ -73,6 +63,16 @@ A Flutter-based event management application focused on event registration, QR-b
 
 <p>
   <a href="https://github.com/Hasnakadeeja/CrowdGO-MobileApp">📂 Source Code</a>
+</p>
+
+### 3. Travel Buddy — AI Travel Planner
+
+An AI-powered travel planning application that generates personalized itineraries and supports travel budget planning.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, Gemini AI
+
+<p>
+  <a href="https://github.com/Hasnakadeeja/Travel-Buddy">📂 Source Code</a>
 </p>
 
 ### 4. Personal Portfolio
